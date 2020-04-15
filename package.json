@@ -1,0 +1,39 @@
+{
+    "private": false,
+    "name": "vue-sug",
+    "version": "0.0.2",
+    "description": "handle your input , handle your suggests",
+    "main": "./dist/index.js",
+    "files": [
+        "dist/*"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/faarawn/vue-sug.git"
+    },
+    "keywords": [
+        "vuejs",
+        "vue",
+        "vue-cli",
+        "input",
+        "input-suggestion",
+        "suggestion",
+        "animate",
+        "vue-suggestion",
+        "vue-suggest"
+    ],
+    "author": "Parsa Shariat",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/faarawn/vue-sug/issues"
+    },
+    "homepage": "https://github.com/faarawn/vue-sug#readme",
+    "devDependencies": {
+        "bili": "^4.9.0",
+        "rollup-plugin-vue": "^5.1.6",
+        "vue-template-compiler": "^2.6.11"
+    }
+}
